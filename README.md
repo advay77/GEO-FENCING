@@ -1,4 +1,4 @@
-![Screenshot 2025-05-26 163735](https://github.com/user-attachments/assets/ba5cd4b4-411e-4ca7-bfe2-0e015d156688)# 🚀 GEO-FENCING: Revolutionizing Indian Railways 🌍
+## 🚀 GEO-FENCING: Revolutionizing Indian Railways 🌍
 
 Welcome to **GEO-FENCING**, where technology meets the tracks! 🚂 This is **NOT just another repo**—this is the future of **Indian Railways**, powered by **GPS magic 🧙‍♂️**, cutting-edge tech, and a sprinkle of genius 🧠.
 
